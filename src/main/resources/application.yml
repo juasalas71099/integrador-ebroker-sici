@@ -1,0 +1,55 @@
+spring:
+  profiles:
+    active: test #que properties (.yml) esta activo
+
+  jackson:
+    serialization:
+      fail-on-empty-beans: false
+
+  datasource:
+    url: jdbc:postgresql://10.10.10.1:5438/ebroker
+    jdbc-url: jdbc:postgresql://10.10.10.1:5438/ebroker
+    username: ebroker
+    password: h6£J;mG2UGO1
+    driver-class-name: org.postgresql.Driver
+
+application:
+  security:
+    jwt:
+      secret-key: 404E635266556A586E3272357538782F413F4428472B4B6250645367566B5970
+      expiration: 3600000000 # a day
+
+server:
+  port: 8081
+  servlet:
+    context-path: /cms
+
+cms:
+  scheduler:
+    openclaimsincmsasistencia:
+      interval: 300000 # 5 minutos
+
+  login:
+    ebroker:
+      url: https://usr20200382.ebroker.es
+      urlToken: https://sso.ebroker.es/realms/20200382/protocol/openid-connect/token
+      username: sumainfo
+      password: Gominola2025
+      prod:
+        url: https://usr20200382.ebroker.es
+        urlToken: https://sso.ebroker.es/realms/20200382/protocol/openid-connect/token
+        username: sumainfo
+        password: Gominola2025
+      test:
+        url: https://usr30200382.ebroker.es
+        urlToken: https://pre-sso.ebroker.es/realms/30200382/protocol/openid-connect/token
+        username: ext_cms
+        password: f0c34cd90a
+    sici:
+      url: https://cmsasistencia.sistemasici.es
+    SICI:
+      prod:
+        url: https://cmsasistencia.sistemasici.es/
+      test:
+        url: https://preproduccion.sistemasici.es
+

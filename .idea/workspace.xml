@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="365b3570-cbd2-4754-9d96-bfc23cf32c02" name="Changes" comment="merge">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/CMS/StartupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/CMS/StartupService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/application/openclaimsincmsasistencia/OpenClaimsInCMSAsistencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/application/openclaimsincmsasistencia/OpenClaimsInCMSAsistencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/cmsasistencia/ExpedienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/cmsasistencia/ExpedienteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/cmsasistencia/login/SICIAuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/cmsasistencia/login/SICIAuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/cmsasistencia/sendclaim/SendClaimToCMSAsistencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/cmsasistencia/sendclaim/SendClaimToCMSAsistencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/ClaimService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/ClaimService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/appEBROKER/auth/EBrokerAuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/appEBROKER/auth/EBrokerAuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/appEBROKER/policy/commercialPlan/CommercialPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/appEBROKER/policy/commercialPlan/CommercialPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/appEBROKER/professional/Professional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/appEBROKER/professional/Professional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/loginAAFF.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/loginAAFF.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2yPPqWIUPRJr8tYwSLb7Z9dAMaL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Unnamed.executor": "Debug",
+    "JUnit.All in CMS.executor": "Run",
+    "JUnit.OpenClaimsInCMSAsistenciaTest.executor": "Run",
+    "Maven.CMS [clean].executor": "Run",
+    "Maven.CMS [compile].executor": "Run",
+    "Maven.CMS [validate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "juan.salas",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/juan.salas/Desktop/integrador-ebroker-sici-pruebasrailway",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cmscomunidades.infrastructure.adapter.erp.appEBROKER" />
+      <recent name="com.cmscomunidades.infrastructure.adapter.erp.appEBROKER.commercialPlan" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\sumainfo\proyectos\integrador-ebroker-sici-remoto\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\sumainfo\proyectos\integrador-ebroker-sici-remoto\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cmscomunidades.infrastructure.adapter.erp" />
+      <recent name="com.cmscomunidades.presentation" />
+      <recent name="com.cmscomunidades.CMS.base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cmscomunidades.CMSApplication" />
+      <module name="CMS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CMS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CMS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenClaimsInCMSAsistenciaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmscomunidades.application.openclaimsincmsasistencia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cmscomunidades.application.openclaimsincmsasistencia" />
+      <option name="MAIN_CLASS_NAME" value="com.cmscomunidades.application.openclaimsincmsasistencia.OpenClaimsInCMSAsistenciaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="integrador-ebroker-sici2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="integrador-ebroker-sici2" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="JUnit.OpenClaimsInCMSAsistenciaTest" />
+      <item itemvalue="JUnit.All in CMS" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OpenClaimsInCMSAsistenciaTest" />
+        <item itemvalue="JUnit.All in CMS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="365b3570-cbd2-4754-9d96-bfc23cf32c02" name="Changes" comment="" />
+      <created>1749733425224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749733425224</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/cmsasistencia/ExpedienteService.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="commercialPlanId" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

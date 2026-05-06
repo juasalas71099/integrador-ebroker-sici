@@ -1,0 +1,4 @@
+cms:
+  scheduler:
+    openclaimsincmsasistencia:
+      interval: 1000 # 1 segundo, para test rápido

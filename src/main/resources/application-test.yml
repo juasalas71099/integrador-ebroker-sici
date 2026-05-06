@@ -1,0 +1,12 @@
+cms:
+  scheduler:
+    openclaimsincmsasistencia:
+      interval: 300000
+  login:
+    ebroker:
+      url: https://usr30200382.ebroker.es
+      urlToken: https://pre-sso.ebroker.es/realms/30200382/protocol/openid-connect/token
+      username: ext_cms
+      password: f0c34cd90a
+    sici:
+      url: https://preproduccion.sistemasici.es
