@@ -7,11 +7,12 @@ spring:
       fail-on-empty-beans: false
 
   datasource:
-    url: jdbc:postgresql://10.10.10.1:5438/ebroker
-    jdbc-url: jdbc:postgresql://10.10.10.1:5438/ebroker
-    username: ebroker
-    password: h6£J;mG2UGO1
+    url: jdbc:postgresql://shuttle.proxy.rlwy.net:34149/railway
+    username: postgres
+    password: ISmlcILquZxbvOBWcvkaoAirImCNRwIE
     driver-class-name: org.postgresql.Driver
+    hikari:
+      ssl: true
 
 application:
   security:
