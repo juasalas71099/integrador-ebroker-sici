@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365b3570-cbd2-4754-9d96-bfc23cf32c02" name="Changes" comment="merge">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/CMS/StartupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/CMS/StartupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/application/openclaimsincmsasistencia/OpenClaimsInCMSAsistencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/application/openclaimsincmsasistencia/OpenClaimsInCMSAsistencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/cmsasistencia/ExpedienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/cmsasistencia/ExpedienteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/cmsasistencia/login/SICIAuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/cmsasistencia/login/SICIAuthService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/cmsasistencia/sendclaim/SendClaimToCMSAsistencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/cmsasistencia/sendclaim/SendClaimToCMSAsistencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/ClaimService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/ClaimService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/appEBROKER/auth/EBrokerAuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/appEBROKER/auth/EBrokerAuthService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/appEBROKER/policy/commercialPlan/CommercialPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/appEBROKER/policy/commercialPlan/CommercialPlan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/appEBROKER/professional/Professional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmscomunidades/infrastructure/adapter/erp/appEBROKER/professional/Professional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/loginAAFF.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/loginAAFF.json" afterDir="false" />
-    </list>
+    <list default="true" id="365b3570-cbd2-4754-9d96-bfc23cf32c02" name="Changes" comment="merge" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +44,7 @@
     "Maven.CMS [compile].executor": "Run",
     "Maven.CMS [validate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "juan.salas",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/juan.salas/Desktop/integrador-ebroker-sici-pruebasrailway",
     "project.structure.last.edited": "Modules",
@@ -76,8 +64,8 @@
       <recent name="C:\sumainfo\proyectos\integrador-ebroker-sici-remoto\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.cmscomunidades.infrastructure.adapter.erp" />
       <recent name="com.cmscomunidades.presentation" />
+      <recent name="com.cmscomunidades.infrastructure.adapter.erp" />
       <recent name="com.cmscomunidades.CMS.base" />
     </key>
   </component>
